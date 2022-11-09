@@ -9,3 +9,4 @@ The deployment procedure is as follows: 1.Login into azure portal using credenti
 The deployement of a static website to Azure is successfully completed.
 
 You can now view your project using Primary endpoint:
+https://myonlinemeal.z13.web.core.windows.net/
